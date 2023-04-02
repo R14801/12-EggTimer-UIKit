@@ -1,27 +1,8 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# 12. Egg Timer (UIKit)
+A simple app used to time eggs based on the preferred texture required
 
-# Egg Timer
+Notable Skills: Async Timer, Progress Bar
 
-## Our Goal
-
-This module will be a mix of tutorials and challenges. Most importantly, we want you to get comfortable with looking up how to do something you've never done before. In certain places of this module, you’ll need to follow the 5 step process you learnt in the Xylophone module and use Google search, StackOverflow and Apple Documentation to make your code do what you want it to. But there are also other parts where we’ll take you step-by-step through new Swift programming concepts. 
-
-## What You'll Make
-
-You’ll be building a beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
-
-## What you will learn
-
-* Swift Collection types - Dictionaries
-* The Swift Timer API
-* Conditional statements - IF/ELSE
-* Conditional statements - Switch
-* Functions with outputs
-* How to use the ProgressView
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
+| Screenshots | Screenshots |
+| - | - |
+| ![Simulator Screen Shot - iPhone 14 Pro - 2023-04-02 at 16 27 16](https://user-images.githubusercontent.com/53140446/229363773-409a92b8-d1a1-4bb0-9cde-6897c6c6c5f5.png) | ![Simulator Screen Shot - iPhone 14 Pro - 2023-04-02 at 16 32 48](https://user-images.githubusercontent.com/53140446/229363784-88b3d32b-d459-489b-b0d1-f740c6967cc4.png) |
